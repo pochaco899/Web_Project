@@ -1,0 +1,35 @@
+.form-container{
+    width: 400px;
+    overflow: hidden;
+   /* background-color: blueviolet;*/
+    height: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container .form-control{
+    width: 80%;
+    margin: 20px auto;
+}
+.form-control label{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form-control input{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-top: 5px;
+}

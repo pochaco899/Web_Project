@@ -1,0 +1,1021 @@
+.container-header{
+    width: 100%;
+    overflow: hidden;
+    background-color: wheat;
+}
+.header{
+    width: 90%;
+    height: 60px;
+   /* background-color: aqua;*/
+    margin: auto;
+}
+.header .menu{
+    width: 40%;
+    height: 100%;
+   /* background-color: purple;*/
+    float: left;
+}
+.header .logo{
+    width: 15%;
+    height: 70%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header .search-box{
+    width: 17%;
+    height: 100%;
+    float: left;
+   /* background-color: green;*/
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.header .nav-right{
+    width: 26%;
+    height: 100%;
+   /* background-color: black;*/
+    float: left;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+ ul li{
+    float: left;
+}
+ ul li a{
+    display: block;
+    padding: 18px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.5;
+    color: white;
+}
+.logo img{
+    margin-top: 10px;
+    width: 80%;
+    height: 70%;
+    margin-left: -10px;
+}
+/* From Uiverse.io by vinodjangid07 */ 
+.InputContainer {
+   width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom,rgb(227, 213, 255),rgb(255, 231, 231));
+  border-radius: 20px;
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.075);
+}
+
+.input {
+  width: 100%;
+  height: 60px;
+  border: none;
+  outline: none;
+  caret-color: rgb(255, 81, 0);
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  padding-left: 15px;
+  letter-spacing: 0.8px;
+  color: rgb(19, 19, 19);
+  font-size: 13.4px;
+}
+.Homepage{
+    width: 100%;
+    height: 600px;
+ /**   background-color: skyblue;*/
+    background-image: url(https://i.pinimg.com/736x/23/0d/4e/230d4e957f1bb1b3e6cc9c3d08927bdf.jpg);
+}
+.text{
+    width: 60%;
+    overflow: hidden;
+ /*   background-color: tomato;*/
+    margin:auto;
+}
+h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 3;
+    color: purple;
+}
+.second{
+    float: right;
+    margin-top: -120px;
+}
+.third{
+    width: 75%;
+   height: 200px;
+    margin: auto;
+    background-color: lightblue;
+    margin-top: -190px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 210px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.one{
+    font-size: 15px;
+    color: white;
+    float: left;
+    margin-left: 200px;
+      margin-top: 45px
+}
+.two{
+    font-size: 15px;
+    color: white;
+    float: left;
+    margin-left: 30px;
+    margin-top: 45px
+}
+.three{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    float: left;
+    margin-left: 350px;
+    margin-top: 20px
+}
+.box{
+    width: 110px;
+    height: 40px;
+    background-color: tomato;
+    padding: 5px;
+    border-radius: 5px;
+   margin-top: 125px;
+   float: left;
+  margin-left: -750px;
+}
+.fou{
+     font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+.box1{
+     width: 120px;
+    height: 40px;
+    background-color: violet;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 125px;
+    float: left;
+    margin-left: -620px;
+}
+.foe{
+     font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+.OUT{
+    width: 200px;
+    height: 65px;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+.apple{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.box3{
+    width: 220px;
+    height: 65px;
+    background-color: black;
+    margin-left: 240px;
+    border-radius: 5px;
+    margin-top: -97px;
+}
+.orange{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.box4{
+     width: 200px;
+    height: 65px;
+    background-color: black;
+    margin-left: 500px;
+    border-radius: 5px;
+    margin-top: -100px;
+
+}
+.grape{
+     font-size: 35px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    line-height: 2;
+}
+.box5{
+     width: 200px;
+    height: 65px;
+    background-color: black;
+    margin-left: 750px;
+    border-radius: 5px;
+    margin-top: -90px;
+}
+.coconut{
+     font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-family:Verdana;
+    line-height: 2.5;
+}
+.box6{
+     width: 150px;
+    height: 65px;
+    background-color: black;
+    margin-left: 1000px;
+    margin-top: -121px;
+    border-radius: 5px;
+}
+.strawberry{
+     font-size: 55px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-family:serif;
+    line-height: 1.3;
+}
+.box7{
+    width: 200px;
+    height: 65px;
+    background-color: black;
+    margin-left: 1200px;
+    margin-top: -90px;
+    border-radius: 5px;
+}
+.kiwi{
+      font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-family:serif;
+    line-height: 2.5;
+}
+.foot{
+    width: 97%;
+    height: 300px;
+    display: flex;
+    gap: 10px;
+}
+ .foot img{
+    width: 97%;
+    height: 370px;
+    margin-top: 50px;
+    float: left;
+    margin-left: 50px;
+    justify-content: space-between;
+   flex-wrap: wrap;
+   flex-direction: row;
+   object-fit: cover;
+}
+.water{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: monospace;
+    margin-top: 150px;
+    float: left;
+    margin-left: 50px;
+}
+.shirt{
+    width: 22.5%;
+    height: 50%;
+ /*   background-color: blue;*/
+    display: flex;
+    margin-top: 250px;
+    float: left;
+    margin-left: -620px;
+    flex-direction: row;
+     object-fit: cover;
+   gap: 20px;
+}
+.shirt img{
+    width: 100%;
+    height: 50%;
+}
+.dis{
+    font-size: 30px;
+    margin-left: -360px;
+    background-color: red;
+    width: 70px;
+    height: 40px;
+    border-radius: 3px;
+    margin-top: -20px;
+}
+.drink{
+    font-size: 20px;
+    margin-top: 450px;
+    color: red;
+    margin-left: -90px;
+    margin-top: 440px;
+}
+.coca{
+    font-size: 20px;
+    color: royalblue;
+    margin-left: -90px;
+    margin-top: -15px;
+    
+}
+.shirt2{
+    width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 250px;
+    float: left;
+    margin-left: -270px;
+}
+.shirt2 img{
+    width: 100%;
+    height: 50%;
+}
+.dis1{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -20px;
+     width:70px;
+    height: 40px;
+    margin-left: 70px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.cafe{
+     font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 65px;
+}
+.matcha{
+  font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 65px;
+}
+.shirt3{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 250px;
+    float: left;
+    margin-left: 30px;
+}
+.shirt3 img{
+    width: 100%;
+    height: 50%;
+}
+.dis2{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -20px;
+     width:70px;
+    height: 40px;
+    margin-left: 70px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.sting{
+    font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.late{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.shirt4{
+    width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 250px;
+    float: left;
+    margin-left: 30px;
+}
+.shirt4 img{
+    width: 100%;
+    height: 50%;
+}
+.dis3{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -20px;
+     width:70px;
+    height: 40px;
+    margin-left: 70px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.tea{
+     font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.soda{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.shirt5{
+     width: 30%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 30px;
+    float: left;
+    margin-left: -10px;
+}
+.shirt5 img{
+    width: 100%;
+    height: 50%;
+}
+.shirt6{
+     width: 30%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 30px;
+    float: left;
+    margin-left: 30px;
+}
+.shirt6 img{
+    width: 100%;
+    height: 50%;
+}
+.shirt7{
+     width: 30%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 30px;
+    float: left;
+    margin-left: 30px;
+}
+.shirt7 img{
+    width: 100%;
+    height: 50%;
+}
+.sh1{
+     width: 30%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 30px;
+    float: left;
+    margin-left: -10px;
+}
+.sh1 img{
+    width: 100%;
+    height: 50%;
+}
+.sh2{
+     width: 30%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 30px;
+    float: left;
+    margin-left: 30px;
+}
+.sh2 img{
+    width: 100%;
+    height: 50%;
+}
+.sh3{
+     width: 30%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 30px;
+    float: left;
+    margin-left: 30px;
+}
+.sh3 img{
+    width: 100%;
+    height: 50%;
+}
+.beer{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.sh4{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: -10px;
+}
+.sh4 img{
+    width: 100%;
+    height: 50%;
+}
+.cha{
+     font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 65px;
+}
+.ice{
+     font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 65px;
+}
+.sh5{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.sh5 img{
+    width: 100%;
+    height: 50%;
+}
+.dis4{
+     position: absolute;
+    font-size: 30px;
+    margin-top: 5px;
+     width:70px;
+    height: 40px;
+    margin-left: 10px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.cha2{
+     font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.ice2{
+      font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.sh6{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.sh6 img{
+    width: 100%;
+    height: 50%;
+}
+.tea2{
+      font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.soda2{
+       font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.sh7{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.sh7 img{
+    width: 100%;
+    height: 50%;
+}
+.sting2{
+      font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.late2{
+       font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.espres{
+     font-size: 30px;
+    font-weight: bold;
+}
+.sh8{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: -10px;
+}
+.sh8 img{
+    width: 100%;
+    height: 50%;
+}
+.dis5{
+      position: absolute;
+    font-size: 30px;
+    margin-top: -20px;
+     width:70px;
+    height: 40px;
+    margin-left: 70px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.lemon{
+      font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.milk{
+        font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.sh9{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.sh9 img{
+    width: 100%;
+    height: 50%;
+}
+.lemon2{
+       font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.milk2{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.shi1{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.shi1 img{
+    width: 100%;
+    height: 50%;
+}
+.cara{
+    font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.choco{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.shi2{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.shi2 img{
+    width: 100%;
+    height: 50%;
+}
+.dis6{
+       position: absolute;
+    font-size: 30px;
+    margin-top: 5px;
+     width:70px;
+    height: 40px;
+    margin-left: 10px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.cara2{
+    font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 75px;
+}
+.choco2{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 75px;
+}
+.mango{
+     font-size: 40px;
+    font-weight: bold;
+    margin-left: 70px;
+}
+.shi3{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.shi3 img{
+    width: 100%;
+    height: 50%;
+}
+.dis7{
+    position: absolute;
+    font-size: 30px;
+    margin-top: 5px;
+     width:70px;
+    height: 40px;
+    margin-left: 10px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.yoko{
+    font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: -5px;
+}
+.chocolate{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: -5px;
+}
+.shi4{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.shi4 img{
+    width: 100%;
+    height: 50%;
+}
+.yoko2{
+    font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: -5px;
+}
+.chocolate2{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: -5px;
+}
+.shi5{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.shi5 img{
+    width: 100%;
+    height: 50%;
+}
+.mocha{
+    font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: -5px;
+}
+.green{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: -5px;
+}
+.shi6{
+     width: 22.5%;
+    height: 50%;
+/*    background-color: blue;*/
+    margin-top: 5px;
+    float: left;
+    margin-left: 30px;
+}
+.shi6 img{
+    width: 100%;
+    height: 50%;
+}
+.mocha2{
+    font-size: 20px;
+    margin-top: 10px;
+    color: red;
+    margin-left: 85px;
+}
+.green2{
+    font-size: 20px;
+    margin-top:-15px;
+    color: royalblue;
+    margin-left: 85px;
+}
+.fra{
+     font-size: 20px;
+    font-weight: bold;
+    margin-left: 70px;
+    line-height: 4;
+}
+img{
+    width: 85px;
+    height: 100px;
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.glass{
+     font-size: 20px;
+    font-weight: bold;
+    margin-left: 250px;
+    line-height: 4;
+    margin-top: -200px;
+}
+.gla{
+     font-size: 20px;
+    margin-left: 250px;
+    line-height: 4;
+    margin-top: -50px;
+}
+.flower{
+      font-size: 24px;
+    font-weight: bold;
+    margin-left: 600px;
+    line-height: 3;
+     margin-top: -170px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    font-size: 15px;
+    margin-left: 600px;
+   margin-top: -30px;
+}
+.f{
+    margin-left: 20px;
+}
+.I{
+     margin-left: 20px;
+}
+.T{
+     margin-left: 20px;
+}
+.Y{
+     margin-left: 20px;
+}
+.tulip{
+      font-size: 24px;
+    font-weight: bold;
+    margin-left: 750px;
+    line-height: 3;
+     margin-top: -170px;
+}
+.icon2{
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    margin-left: 800px;
+   margin-top: -30px;
+}
+.W{
+    float: left;
+    margin-left: 130px;
+    margin-top: -105px;
+}
+.W1{
+    float: left;
+    margin-left: 130px;
+    margin-top: -80px;
+}
+.W2{
+    float: left;
+    margin-left: 125px;
+    margin-top: -50px;
+}
+.W3{
+    float: left;
+    margin-left: 125px;
+    margin-top: -20px;
+}
+.Iris{
+      font-size: 24px;
+    font-weight: bold;
+    margin-left: 1050px;
+    line-height: 3;
+     margin-top: -170px;
+}
+.X{
+    float: left;
+    margin-left: 195px;
+    margin-top: -105px;
+}
+.X1{
+    float: left;
+    margin-left: 195px;
+    margin-top: -70px;
+}
+.X2{
+    float: left;
+    margin-left: 195px;
+    margin-top: -40px;
+}
+.Aster{
+     font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin-left: -780px;
+    line-height: 4;
+    margin-top: 30px;
+}
+.card{
+    width: 390px;
+    height: 80px;
+   /* background-color: blue;*/
+    float: left;
+    margin-left: -780px;
+    margin-top: 90px;
+}
+.card img{
+    width: 100%;
+    height: 100%;
+    margin-left: -10px;
+    margin-top: 20px;
+}
+.dis8{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -20px;
+     width:70px;
+    height: 40px;
+    margin-left: 70px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.dis9{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -20px;
+     width:70px;
+    height: 40px;
+    margin-left: 70px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
+.disc1{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -20px;
+     width:70px;
+    height: 40px;
+    margin-left: 70px;
+    background: red;
+    /*padding: 10px 15px;
+    font-weight: bold;*/
+}
